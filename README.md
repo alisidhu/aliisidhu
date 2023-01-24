@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Compose KMM**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aliisidhu?tab=repositories](https://github.com/aliisidhu?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/alisidhu?tab=repositories](https://github.com/alisidhu?tab=repositories)
 
 
 - 💬 Ask me about **Android , Flutter , KMM, Jetpack , Clean Architecture, Software Architecture**
